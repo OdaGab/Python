@@ -5,7 +5,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 ## Curso Python - Introdução
 
-01 - Hello 
+01 - Hello
 
 02 - Operações Aritméticas
+
 03 - Operações de Porcentagem
