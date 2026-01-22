@@ -11,4 +11,6 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 03 - Operações de Porcentagem
 
-04 - tipo Númerico
+04 - Tipo Númerico
+
+05 - Tipo booleano
