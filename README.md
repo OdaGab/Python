@@ -10,3 +10,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 02 - Operações Aritméticas
 
 03 - Operações de Porcentagem
+
+04 - tipo Númerico
