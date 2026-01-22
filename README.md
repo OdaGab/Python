@@ -14,3 +14,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 04 - Tipo Númerico
 
 05 - Tipo booleano
+
+06 - Tipo String
