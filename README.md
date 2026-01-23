@@ -48,3 +48,9 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 03 - loop while
 
 04 - loop while com Break
+
+05 - exercícios
+
+06 - Recaptulando
+
+## Curso Python - Funções
