@@ -19,16 +19,20 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 07 - Escopo de variáveis
 
-08 - Estruturas condicionais if
+08 - Estrutura condicionais if
 
-08 - Estruturas condicionais else
+08 - Estrutura condicionais else
 
-09 - Estruturas condicionais elif
+09 - Estrutura condicionais elif
 
-10 - Estruturas de OR
+10 - Estrutura de OR
 
-11 - Estruturas de AND
+11 - Estrutura de AND
 
-12 - Estruturas de NOT
+12 - Estrutura de NOT
 
-13 - Estruturas de IS
+13 - Estrutura de IS
+
+14 - Estrutura de IN
+
+15 - Exercícios
