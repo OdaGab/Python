@@ -28,3 +28,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 10 - Estruturas de OR
 
 11 - Estruturas de AND
+
+12 - Estruturas de NOT
