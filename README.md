@@ -16,3 +16,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 05 - Tipo booleano
 
 06 - Tipo String
+
+07 - Escopo de variáveis
