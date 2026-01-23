@@ -19,4 +19,6 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 07 - Escopo de variáveis
 
-08 - Estruturas condicionais
+08 - Estruturas condicionais if
+
+08 - Estruturas condicionais else
