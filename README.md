@@ -39,4 +39,6 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 16 - Recaptulando
 
-## Curso Python - Introdução
+## Curso Python - Estrutura de repetição em Python
+
+01 - loop for
