@@ -1,31 +1,50 @@
-# A estrutura de controle elif (abreviação de "else if") em Python
-# permite que você verifique múltiplas condições em sequência.
+"""
+Estruturas condicionais elif
 
-# O elif é executado somente se a condição do if inicial for falsa.
-# Se a condição do elif for verdadeira, o bloco de código correspondente
-# é executado e o resto da estrutura (outros elifs e o else) é ignorado.
-# Você pode ter vários elifs em uma única estrutura if.
+O comando `elif` é uma abreviação de "else if" e permite verificar múltiplas condições.
+Se a condição do `if` for falsa, a condição do primeiro `elif` é verificada.
+Se essa também for falsa, os próximos `elif`s (se existirem) são verificados em ordem.
+Se todas as condições do `if` e `elif`s forem falsas, o bloco de código do `else` é executado.
+"""
 
-# Exemplo:
-idade = 25
+# Pede ao usuário para digitar um número e o converte para inteiro
+numero = int(input("Digite um número: "))
 
-if idade < 18:
-    print("Você é menor de idade.")
-elif idade >= 18 and idade < 60:
-    print("Você é um adulto.")
+# Verifica se o número é maior que zero
+if numero > 0:
+    print("O número é positivo.")
+# Se a primeira condição for falsa, verifica se o número é menor que zero
+elif numero < 0:
+    print("O número é negativo.")
+# Se nenhuma das condições acima for verdadeira, executa este bloco
 else:
-    print("Você é um idoso.")
+    print("O número é zero.")
 
-# Outro exemplo com mais de um elif
-nota = 85
+print("Fim do programa.")
 
-if nota >= 90:
-    print("Conceito A")
-elif nota >= 80:
-    print("Conceito B")
-elif nota >= 70:
-    print("Conceito C")
-elif nota >= 60:
-    print("Conceito D")
+# Outro exemplo com múltiplas condições usando elif
+# Pede ao usuário para digitar a nota de um aluno
+nota = float(input("Digite a nota do aluno (0-10): "))  
+# Verifica a faixa da nota e imprime a situação correspondente
+if nota >= 9:
+    print("Aprovado com louvor!")
+elif nota >= 7:
+    print("Aprovado!")
+elif nota >= 5:
+    print("Recuperação.")
 else:
-    print("Conceito F")
+    print("Reprovado.")
+
+print("Fim do programa.")
+# Exemplo de uso do elif em um loop for
+# Iterando sobre uma lista de números e classificando-os
+numeros = [10, -5, 0, 23, -1]
+for numero in numeros:  
+    if numero > 0:
+        print(f"{numero} é positivo.")
+    elif numero < 0:
+        print(f"{numero} é negativo.")
+    else:
+        print(f"{numero} é zero.")  
+
+print("Fim do programa.")
