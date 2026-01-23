@@ -22,3 +22,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 08 - Estruturas condicionais if
 
 08 - Estruturas condicionais else
+
+09 - Estruturas condicionais elif
