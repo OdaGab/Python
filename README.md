@@ -26,3 +26,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 09 - Estruturas condicionais elif
 
 10 - Estruturas de OR
+
+11 - Estruturas de AND
