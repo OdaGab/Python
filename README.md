@@ -46,3 +46,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 02 - Entendendo ranges
 
 03 - loop while
+
+04 - loop while com Break
