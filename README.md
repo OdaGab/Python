@@ -36,3 +36,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 14 - Estrutura de IN
 
 15 - Exercícios
+
+16 - Recaptulando
