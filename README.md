@@ -18,3 +18,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 06 - Tipo String
 
 07 - Escopo de variáveis
+
+08 - Estruturas condicionais
