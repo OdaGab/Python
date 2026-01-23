@@ -38,3 +38,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 15 - Exercícios
 
 16 - Recaptulando
+
+## Curso Python - Introdução
