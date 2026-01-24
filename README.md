@@ -60,3 +60,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 02 - Lista Range
 
 03 - Lista com indice
+
+04 - Copia e fatiamento de listas
