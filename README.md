@@ -72,3 +72,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 08 - Usando listas como filas
 
 09 - Usando listas como pilhas
+
+10 - Pesquisa em listas.
