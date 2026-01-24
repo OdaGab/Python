@@ -70,3 +70,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 07 - Removendo elementos de uma lista
 
 08 - Usando listas como filas
+
+09 - Usando listas como pilhas
