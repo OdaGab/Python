@@ -84,3 +84,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 14 - Dicionário
 
 15 - Dicionário com Listas
+
+16 - Dicionário com Valor Padrão
