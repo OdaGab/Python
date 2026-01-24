@@ -78,3 +78,7 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 11 - Listas Dentro de listas
 
 12 - Matrizes
+
+13 - Ordenação de listas
+
+14 - Dicionário
