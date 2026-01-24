@@ -66,3 +66,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 05 - Tamanho de Listas
 
 06 - Adição de Listas
+
+07 - Removendo elementos de uma lista
