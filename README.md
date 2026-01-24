@@ -88,3 +88,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 16 - Dicionário com Valor Padrão
 
 17 - Tuplas
+
+18 - Conjuntos (Sets)
