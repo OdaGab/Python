@@ -62,3 +62,7 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 03 - Lista com indice
 
 04 - Copia e fatiamento de listas
+
+05 - Tamanho de Listas
+
+06 - Adição de Listas
