@@ -99,6 +99,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 02 - Fórmula de F = m \* a
 
+03 - Lei da Gravitação Universal: F = G _ (m1 _ m2) / d²
+
 ## Interagindo com API's
 
 01 - viacep
