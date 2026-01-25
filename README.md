@@ -90,3 +90,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 17 - Tuplas
 
 18 - Conjuntos (Sets)
+
+19 - conjuntos Geral
