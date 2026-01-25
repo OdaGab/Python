@@ -92,3 +92,7 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 18 - Conjuntos (Sets)
 
 19 - conjuntos Geral
+
+## Formulas Matemáticas em Python
+
+01 - Bascara
