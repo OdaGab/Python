@@ -95,4 +95,4 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 ## Formulas Matemáticas em Python
 
-01 - Bascara
+01 - Fórmula de Bhaskara
