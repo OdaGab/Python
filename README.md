@@ -97,6 +97,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 01 - Fórmula de Bhaskara
 
+02 - Fórmula de F = m \* a
+
 ## Interagindo com API's
 
 01 - viacep
