@@ -101,6 +101,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 03 - Lei da Gravitação Universal: F = G _ (m1 _ m2) / d²
 
+04 - Fórmula: IMC = peso (kg) / altura² (m)
+
 ## Interagindo com API's
 
 01 - viacep
