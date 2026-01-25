@@ -103,6 +103,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 04 - Fórmula: IMC = peso (kg) / altura² (m)
 
+05 - Programa para calcular a Área de um Triângulo
+
 ## Interagindo com API's
 
 01 - viacep
