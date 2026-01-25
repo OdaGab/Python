@@ -108,3 +108,5 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 ## Interagindo com API's
 
 01 - viacep
+
+02 - API utilizada: bible-api.com
