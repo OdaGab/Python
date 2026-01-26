@@ -109,6 +109,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 01 - list e join uma introdução simples.
 
+02 - Verificação Parcial de String - startswith() e endswith()
+
 ## Interagindo com API's
 
 01 - viacep
