@@ -15,29 +15,31 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 05 - Tipo booleano
 
-06 - Tipo String
+06 - Entrada de dados
 
-07 - Escopo de variáveis
+07 - Tipo String
 
-08 - Estrutura condicionais if
+08 - Escopo de variáveis
 
-08 - Estrutura condicionais else
+09 - Estrutura condicionais if
 
-09 - Estrutura condicionais elif
+10 - Estrutura condicionais else
 
-10 - Estrutura de OR
+11 - Estrutura condicionais elif
 
-11 - Estrutura de AND
+12 - Estrutura de OR
 
-12 - Estrutura de NOT
+13 - Estrutura de AND
 
-13 - Estrutura de IS
+14 - Estrutura de NOT
 
-14 - Estrutura de IN
+15 - Estrutura de IS
 
-15 - Exercícios
+16 - Estrutura de IN
 
-16 - Recaptulando
+17 - Exercícios
+
+18 - Recaptulando
 
 ## Curso Python - Estrutura de repetição em Python
 
