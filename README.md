@@ -115,6 +115,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 04 - Exemplo de in e not in - Verificação de Substring
 
+05 - Exemplo de count() - Contagem de Substrings
+
 ## Interagindo com API's
 
 01 - viacep
