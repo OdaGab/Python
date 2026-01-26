@@ -89,11 +89,13 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 16 - Dicionário com Valor Padrão
 
-17 - Tuplas
+17 - Criando um dicionário (mapa)
 
-18 - Conjuntos (Sets)
+18 - Tuplas
 
-19 - conjuntos Geral
+19 - Conjuntos (Sets)
+
+20 - conjuntos Geral
 
 ## Formulas Matemáticas em Python
 
