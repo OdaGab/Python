@@ -105,6 +105,10 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 05 - Programa para calcular a Área de um Triângulo
 
+## Strings
+
+01 - list e join uma introdução simples.
+
 ## Interagindo com API's
 
 01 - viacep
