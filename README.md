@@ -119,6 +119,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 06 - Exemplo de uso do método find() e rfind()
 
+07 - Exemplo de uso do método index() e rindex()
+
 ## Interagindo com API's
 
 01 - viacep
