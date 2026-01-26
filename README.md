@@ -111,6 +111,10 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 02 - Verificação Parcial de String - startswith() e endswith()
 
+03 - Exemplo de lower() e upper() - Conversão de Caso
+
+04 - Exemplo de in e not in - Verificação de Substring
+
 ## Interagindo com API's
 
 01 - viacep
