@@ -131,6 +131,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 10 - Substituição de String
 
+11 - Removem espaços em branco (ou outros caracteres especificados)
+
 ## Interagindo com API's
 
 01 - viacep
