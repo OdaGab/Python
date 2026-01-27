@@ -134,6 +134,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 11 - Removem espaços em branco (ou outros caracteres especificados)
 Métodos de Validação de Conteúdo de Strings
 
+12 - Formatação de Strings com o método .format()
+
 ## Interagindo com API's
 
 01 - viacep
