@@ -129,6 +129,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 09 - Quebra e separação de String
 
+10 - Substituição de String
+
 ## Interagindo com API's
 
 01 - viacep
