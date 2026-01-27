@@ -136,6 +136,8 @@ Métodos de Validação de Conteúdo de Strings
 
 12 - Formatação de Strings com o método .format()
 
+13 - Jogo da Forca em Python
+
 ## Interagindo com API's
 
 01 - viacep
