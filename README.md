@@ -132,6 +132,7 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 10 - Substituição de String
 
 11 - Removem espaços em branco (ou outros caracteres especificados)
+Métodos de Validação de Conteúdo de Strings
 
 ## Interagindo com API's
 
