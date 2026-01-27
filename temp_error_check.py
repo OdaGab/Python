@@ -50,38 +50,32 @@ print("\n--- Moeda ---")
 valor = 1234.56
 print("Valor em moeda: R$ {:,.2f}".format(valor)) # R$ 1,234.56 
 
-# --- Formatação de Números Inteiros ---
-inteiro = 255
-print("\n--- Formatação de Inteiros (base 255) ---")
-print(f"Decimal (d):     {inteiro:d}")
-print(f"Caractere (c):   '{inteiro:c}' (Corresponde a Tabela ASCII)") # Requer um inteiro pequeno
-print(f"Binário (b):     {inteiro:b}")
-print(f"Octal (o):       {inteiro:o}")
-print(f"Hexadecimal (x): {inteiro:x}")
-print(f"Hexadecimal (X): {inteiro:X}")
+# formatação de Numeros Inteiros com separador de milhares
+print("\n--- Inteiros com Separador de Milhares ---")
+grande_numero = 10000000
+print("Número com separador de milhares: {:,}".format(grande_numero)) # Saída: 10,000,000
 
-# O 'n' é similar ao 'd', mas usa a configuração de localidade 
-# para inserir separadores apropriados.
-numero_grande = 1234567
-print("\n--- Formato de Número (n) ---")
-# Em localidades que usam ',', o resultado seria "1,234,567"
-# A exibição exata depende da configuração do sistema operacional.
-import locale
-try:
-    locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
-    print(f"Formato 'n' (pt_BR): {numero_grande:n}") 
-except locale.Error:
-    print(f"Formato 'n' (padrão): {numero_grande:n} (locale 'pt_BR.UTF-8' não suportado)")
+# Exemplo de iteração e validação (assumindo que 'nome' está definido em algum lugar antes)
+# emails = ["exemplo@email.com", "email_invalido", "spam@email.com", "outro@email.com"]
+# print("Validando emails:\n")
+# for email in emails:
+#     if "@" in email:
+#         print(f"✓ '{email}' é um email válido.")
+#     else:
+#         print(f"✗ '{email}' não é um email válido.")
+#     if "spam" in email:
+#         print(f"✗ '{email}' contém termo proibido 'spam'.")
+#     else:
+#         print(f"✓ '{email}' não contém termo proibido 'spam'.")   
+#     # A linha abaixo parece estar fora de contexto ou incompleta, pois 'nome' não é definido aqui.
+#     # Se 'nome' for uma variável que deveria ser usada, ela precisa ser definida.
+#     # Exemplo: Se 'nome' fosse o email atual, seria:
+#     # if "@" in email and "spam" not in email:
+#     #     print(f"✓ '{email}' é um email válido e não contém spam.")
+#     # else:
+#     #     print(f"✗ '{email}' é inválido ou contém spam.")
+#     # print(f"✓ '{nome}' contém ambos os nomes") 
+# else:
+#     print(f"✗ '{nome}' não contém ambos os nomes")
 
-
-# --- Formatação de Números Decimais ---
-decimal_num = 12345.6789
-print("\n--- Formatação de Números Decimais (base 12345.6789) ---")
-print(f"Notação Científica (e): {decimal_num:e}")
-print(f"Notação Científica (E): {decimal_num:E}")
-print(f"Ponto Fixo (f):         {decimal_num:f}")
-print(f"Geral (g):              {decimal_num:g}") # Usa 'e' se o expoente for grande
-print(f"Geral (G):              {decimal_num:G}") # Usa 'E' se o expoente for grande
-print(f"Número (n):             {decimal_num:n}") # Usa configuração de localidade
-print(f"Porcentagem (%):        {0.8912:.2%}")   # Multiplica por 100 e adiciona %
-
+print("Número formatado: {:,}".format(grande_numero))  # Saída: 10,000,000
