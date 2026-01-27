@@ -125,6 +125,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 07 - Exemplo de uso do método index() e rindex()
 
+08 - Posicionamento de Strings
+
 ## Interagindo com API's
 
 01 - viacep
