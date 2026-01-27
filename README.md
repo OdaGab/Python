@@ -127,6 +127,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 08 - Posicionamento de Strings
 
+09 - Quebra e separação de String
+
 ## Interagindo com API's
 
 01 - viacep
