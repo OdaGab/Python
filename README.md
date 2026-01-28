@@ -103,6 +103,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 23 - Módulo Collections - OrderedDict
 
+24 - Módulo Collections - namedtuple
+
 ## Formulas Matemáticas em Python
 
 01 - Fórmula de Bhaskara
