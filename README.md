@@ -99,6 +99,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 21 - Módulo Collections - Counter
 
+22 - Módulo Collections - defaultdict
+
 ## Formulas Matemáticas em Python
 
 01 - Fórmula de Bhaskara
