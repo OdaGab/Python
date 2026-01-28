@@ -142,6 +142,8 @@ Métodos de Validação de Conteúdo de Strings
 
 01 - Função simples
 
+02 - Pesquisando em uma lista e retorna a posição
+
 ## Interagindo com API's
 
 01 - viacep

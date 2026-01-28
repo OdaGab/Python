@@ -55,3 +55,22 @@ def interagir_com_usuario():
 # Ponto de entrada do script
 if __name__ == "__main__":
     interagir_com_usuario()
+    
+    
+        # --- Exemplo simples ---
+    print("\n--- Teste da segunda função de pesquisa ('pesquisa') ---")
+    
+    def pesquisa(lista, valor):
+        """
+        Pesquisa um valor em uma lista e retorna seu índice ou -1 se não encontrado.
+        """
+        for x, e in enumerate(lista):
+            if e == valor:
+                return x
+        return -1
+    
+    L = [10, 20, 30, 40, 50]
+    
+    print(f"Pesquisando na lista: {L}")
+    print(f"Resultado da pesquisa por 30: {pesquisa(L, 30)}")
+    print(f"Resultado da pesquisa por 60: {pesquisa(L, 60)}")
