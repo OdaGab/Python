@@ -156,6 +156,8 @@ Métodos de Validação de Conteúdo de Strings
 
 03 - Função para calcular o fatorial de um número
 
+04 - Função que retorna um valor
+
 ## Interagindo com API's
 
 01 - viacep
