@@ -138,6 +138,10 @@ Métodos de Validação de Conteúdo de Strings
 
 13 - Jogo da Forca em Python
 
+## Funções
+
+01 - Função simples
+
 ## Interagindo com API's
 
 01 - viacep
