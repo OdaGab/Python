@@ -97,6 +97,8 @@ Aqui eu guardo meus scripts, anotações e exemplos enquanto aprendo a linguagem
 
 20 - conjuntos Geral
 
+21 - Módulo Collections - Counter
+
 ## Formulas Matemáticas em Python
 
 01 - Fórmula de Bhaskara
@@ -143,6 +145,8 @@ Métodos de Validação de Conteúdo de Strings
 01 - Função simples
 
 02 - Pesquisando em uma lista e retorna a posição
+
+03 - Função para calcular o fatorial de um número
 
 ## Interagindo com API's
 
