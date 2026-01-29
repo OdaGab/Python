@@ -163,3 +163,31 @@ Métodos de Validação de Conteúdo de Strings
 01 - viacep
 
 02 - API utilizada: bible-api.com
+
+## Para criar um executavel Windows
+
+Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip. A principal diferença está nos comandos para ativar o ambiente virtual.
+
+Assumindo que você tenha o Python instalado no Windows e o pip configurado corretamente, siga estes passos:
+
+Abra o Prompt de Comando (CMD) ou o PowerShell.
+
+Crie e ative um ambiente virtual (Recomendado): É uma boa prática criar um ambiente virtual para seu projeto. Se ainda não tiver um, você pode criar com o comando:
+
+py -m venv .venv
+Para ativá-lo, execute:
+
+.\.venv\Scripts\activate
+Instale o PyInstaller: Com o ambiente virtual ativo, use o pip para instalar o PyInstaller. Usar py -m pip é uma forma robusta de garantir que você está usando o pip da instalação correta do Python.
+
+py -m pip install pyinstaller
+Após a conclusão da instalação, você poderá usar o comando pyinstaller para converter seus scripts .py em arquivos executáveis (.exe) para Windows.
+
+Resumindo, o fluxo de trabalho geral é:
+
+Ativar o ambiente virtual.
+Navegar para a pasta do projeto.
+Executar pyinstaller --onefile seu_script.py.
+Pegar o executável na pasta dist/.
+
+link documentação https://pyinstaller.org/en/stable/usage.html
