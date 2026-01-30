@@ -164,6 +164,10 @@ Métodos de Validação de Conteúdo de Strings
 
 07 - Forma padrão de documentar o código é através de "docstrings"
 
+## Leitura e escrita em arquivos
+
+01 - Leitura de arquivos
+
 ## Interagindo com API's
 
 01 - viacep
