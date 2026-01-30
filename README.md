@@ -162,6 +162,8 @@ Métodos de Validação de Conteúdo de Strings
 
 06 - Função com parametros padrão
 
+07 - Forma padrão de documentar o código é através de "docstrings"
+
 ## Interagindo com API's
 
 01 - viacep
