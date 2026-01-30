@@ -158,6 +158,8 @@ Métodos de Validação de Conteúdo de Strings
 
 04 - Função que retorna um valor
 
+05 - Função com parametros
+
 ## Interagindo com API's
 
 01 - viacep
@@ -166,7 +168,9 @@ Métodos de Validação de Conteúdo de Strings
 
 ## Para criar um executavel Windows
 
-Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip. A principal diferença está nos comandos para ativar o ambiente virtual.
+Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip.
+
+A principal diferença está nos comandos para ativar o ambiente virtual.
 
 Assumindo que você tenha o Python instalado no Windows e o pip configurado corretamente, siga estes passos:
 
