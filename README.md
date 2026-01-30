@@ -160,6 +160,8 @@ Métodos de Validação de Conteúdo de Strings
 
 05 - Função com parametros
 
+06 - Função com parametros padrão
+
 ## Interagindo com API's
 
 01 - viacep
