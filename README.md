@@ -168,6 +168,8 @@ Métodos de Validação de Conteúdo de Strings
 
 01 - Leitura de arquivos
 
+02 - Escrita em arquivo
+
 ## Interagindo com API's
 
 01 - viacep
