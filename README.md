@@ -176,6 +176,8 @@ Métodos de Validação de Conteúdo de Strings
 
 02 - API utilizada: bible-api.com
 
+03 - Script para testar a API de One Piece
+
 ## Para criar um executavel Windows
 
 Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip.
