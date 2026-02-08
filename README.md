@@ -202,6 +202,8 @@ Métodos de Validação de Conteúdo de Strings
 
 11 - Um número somado ao triplo de seu sucessor resulta em 74. Qual é essenúmero?
 
+12 - Qual é o número cujo quádruplo subtraído de 5 dá o mesmo que seu dobro somado com 11?
+
 ## Para criar um executavel Windows
 
 Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip.
