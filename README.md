@@ -194,6 +194,8 @@ Métodos de Validação de Conteúdo de Strings
 
 07 - Qual número atende ao seguinte critério? “Sua metade mais 7 é igual a 19.”
 
+08 - “Quatro vezes um número subtraído de 8 é igual a 28.”
+
 ## Para criar um executavel Windows
 
 Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip.
