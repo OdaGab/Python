@@ -1,3 +1,11 @@
+'''
+
+Qual número atende ao seguinte critério? “Sua metade mais 7 é igual a 19.”
+
+'''
+
+
+
 # Problema: "Sua metade mais 7 é igual a 19."
 #
 # Equação:
