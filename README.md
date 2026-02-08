@@ -192,6 +192,8 @@ Métodos de Validação de Conteúdo de Strings
 
 06 - Descubra os números: “A soma de dois números consecutivos é 47.” Quais são eles?
 
+07 - Qual número atende ao seguinte critério? “Sua metade mais 7 é igual a 19.”
+
 ## Para criar um executavel Windows
 
 Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip.
