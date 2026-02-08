@@ -178,13 +178,15 @@ Métodos de Validação de Conteúdo de Strings
 
 03 - Script para testar a API de One Piece
 
-## Para Treinar Resolvendo equações
+## Para Treinar, Resolvendo equações.
 
 01 - Descubra o número: “Um número somado ao seu dobro resulta em 36.” Qual é esse número?
 
 02 - A diferença entre um número e sua terça parte é 20. Qual é esse número?
 
 03 - Três amigos somaram suas idades...
+
+04 - Multiplique um número por 3 e subtraia 9. O resultado é igual ao próprio número.
 
 ## Para criar um executavel Windows
 
