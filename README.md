@@ -198,6 +198,8 @@ Métodos de Validação de Conteúdo de Strings
 
 09 - Caça ao número: “O quádruplo de um número mais 10 é igual ao triplo do mesmo númeromais 22.”
 
+10 - “Cinco vezes um número somado com 2 é igual ao número multiplicado por 7.”
+
 ## Para criar um executavel Windows
 
 Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip.
