@@ -196,6 +196,8 @@ Métodos de Validação de Conteúdo de Strings
 
 08 - “Quatro vezes um número subtraído de 8 é igual a 28.”
 
+09 - Caça ao número: “O quádruplo de um número mais 10 é igual ao triplo do mesmo númeromais 22.”
+
 ## Para criar um executavel Windows
 
 Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip.
