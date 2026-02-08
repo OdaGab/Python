@@ -184,6 +184,8 @@ Métodos de Validação de Conteúdo de Strings
 
 02 - A diferença entre um número e sua terça parte é 20. Qual é esse número?
 
+03 - Três amigos somaram suas idades...
+
 ## Para criar um executavel Windows
 
 Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip.
