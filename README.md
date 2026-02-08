@@ -181,7 +181,6 @@ Métodos de Validação de Conteúdo de Strings
 ## Para Treinar Resolvendo equações
 
 01 - Descubra o número: “Um número somado ao seu dobro resulta em 36.” Qual é esse número?
-
 02 - A diferença entre um número e sua terça parte é 20. Qual é esse número?
 
 ## Para criar um executavel Windows
