@@ -178,6 +178,10 @@ Métodos de Validação de Conteúdo de Strings
 
 03 - Script para testar a API de One Piece
 
+## Para Treinar Resolvendo equações
+
+01 - Descubra o número: “Um número somado ao seu dobro resulta em 36.” Qual é esse número?
+
 ## Para criar um executavel Windows
 
 Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip.
