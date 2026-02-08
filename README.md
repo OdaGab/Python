@@ -190,6 +190,8 @@ Métodos de Validação de Conteúdo de Strings
 
 05 - Que número atende à regra? “O triplo de um número menos 5 é igual ao dobro do mesmo número mais1.”
 
+06 - Descubra os números: “A soma de dois números consecutivos é 47.” Quais são eles?
+
 ## Para criar um executavel Windows
 
 Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip.
