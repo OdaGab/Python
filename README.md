@@ -204,6 +204,11 @@ Métodos de Validação de Conteúdo de Strings
 
 12 - Qual é o número cujo quádruplo subtraído de 5 dá o mesmo que seu dobro somado com 11?
 
+## Utilizando openCV
+
+01 - Visualizando uma imagem.
+   
+
 ## Para criar um executavel Windows
 
 Para instalar o PyInstaller no Windows, o processo é semelhante ao do macOS, usando o pip.
