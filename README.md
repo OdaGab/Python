@@ -232,6 +232,8 @@ Após a conclusão da instalação, você poderá usar o comando pyinstaller par
 
 Resumindo, o fluxo de trabalho geral é:
 
+#python -m PyInstaller --onefile aula01.py
+
 Ativar o ambiente virtual.
 Navegar para a pasta do projeto.
 Executar pyinstaller --onefile seu_script.py.
